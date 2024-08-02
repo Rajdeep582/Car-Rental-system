@@ -10,7 +10,7 @@ class Car {
         this.car_id = car_id;
         this.brand = brand;
         this.rentalPricePerDay = rentalPricePerDay;
-        this.available = true; // Default to available
+        this.available = true; 
     }
 
     public int getCar_id() {
